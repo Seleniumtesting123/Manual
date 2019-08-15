@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57245" started-at="2019-08-12T16:12:16Z" finished-at="2019-08-12T16:13:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57245" started-at="2019-08-12T16:12:16Z" finished-at="2019-08-12T16:13:14Z">
+      <class name="ABC.XYZ.DataWithScreen">
+        <test-method status="PASS" signature="method1(java.lang.String, java.lang.String)[pri:0, instance:ABC.XYZ.DataWithScreen@1440df3]" name="method1" duration-ms="57094" started-at="2019-08-12T16:12:17Z" data-provider="TestData" finished-at="2019-08-12T16:13:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahil]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- ABC.XYZ.DataWithScreen -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
